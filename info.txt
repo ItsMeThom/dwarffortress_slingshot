@@ -1,0 +1,16 @@
+[ID:sling_shot_weapon_tum]
+[NUMERIC_VERSION:17]
+[DISPLAYED_VERSION:1.6]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:17]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.6]
+[AUTHOR:Comrade Tum]
+[NAME:Slings and Shot]
+[DESCRIPTION:Craft leather and cloth slings as weapons, shot ammo from stone and metal. Bombard your enemies from a distance!]
+
+[STEAM_TITLE:Slings & Shot]
+[STEAM_TAG:mod]
+[STEAM_TAG:graphics]
+[STEAM_TAG:item]
+[STEAM_TAG:weapon]
+
+[STEAM_FILE_ID:2920947043]
